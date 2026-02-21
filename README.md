@@ -1,69 +1,8 @@
-<table>
-<tr>
-
-<td width="60%">
-
 # 👋 Hi, I'm Kushaan
 
 🎓 Software Development Student  
 💻 Interested in Backend, Systems, Full-Stack & Applied AI  
 🚀 Actively building projects and strengthening core fundamentals  
-
-</td>
-
-<td width="40%" align="center">
-
-<a href="https://github.com/Kushaan2006/TaskScheduler_RE" style="text-decoration:none;">
-  <div style="
-    background:#1f2937;
-    color:white;
-    padding:14px;
-    border-radius:12px;
-    margin-bottom:12px;
-    text-align:left;
-  ">
-    <strong>Task Scheduler (C++)</strong><br/>
-    <span style="font-size:13px; color:#cbd5e1;">
-      C++ • Multithreading • File I/O
-    </span>
-  </div>
-</a>
-
-<a href="https://github.com/Kushaan2006/SecondProject" style="text-decoration:none;">
-  <div style="
-    background:#0f766e;
-    color:white;
-    padding:14px;
-    border-radius:12px;
-    margin-bottom:12px;
-    text-align:left;
-  ">
-    <strong>Web API Platform</strong><br/>
-    <span style="font-size:13px; color:#ccfbf1;">
-      Next.js • Express • MongoDB
-    </span>
-  </div>
-</a>
-
-<a href="https://github.com/Kushaan2006/ThirdProject" style="text-decoration:none;">
-  <div style="
-    background:#4f46e5;
-    color:white;
-    padding:14px;
-    border-radius:12px;
-    text-align:left;
-  ">
-    <strong>Networking Toolkit</strong><br/>
-    <span style="font-size:13px; color:#e0e7ff;">
-      TCP/UDP • Sockets • Protocols
-    </span>
-  </div>
-</a>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
