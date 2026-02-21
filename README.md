@@ -5,23 +5,6 @@
 🚀 Actively building projects and strengthening core fundamentals  
 ---
 
-## 🚧 Currently Building
-
-<p align="center">
-  <a href="https://github.com/Kushaan2006/TaskScheduler_RE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushaan2006&repo=TaskScheduler_RE&theme=dark" />
-  </a>
-  <a href="https://github.com/Kushaan2006/YourSecondProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushaan2006&repo=YourSecondProject&theme=dark" />
-  </a>
-  <a href="https://github.com/Kushaan2006/YourThirdProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushaan2006&repo=YourThirdProject&theme=dark" />
-  </a>
-</p>
-
----
----
-
 # 💻 Tech Stack
 
 ## 🧑‍💻 Programming Languages
