@@ -3,6 +3,7 @@
 🎓 Software Development Student  
 💻 Interested in Backend, Systems, Full-Stack & Applied AI  
 🚀 Actively building projects and strengthening core fundamentals  
+
 ---
 
 # 💻 Tech Stack
@@ -67,3 +68,5 @@
 [![](https://visitcount.itsvg.in/api?id=Kushaan2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+can this somehow right in the header contain 3 tiles which show projects I am currently working on?
